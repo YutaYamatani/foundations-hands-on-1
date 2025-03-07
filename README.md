@@ -8,4 +8,3 @@ Hello!
 
 [リンク](https://google.com)
 
--[] チェックボックス
